@@ -1,13 +1,12 @@
 ## Omar Ramadan - Data Analyst Portfolio
 
-About
+# About
 
 Hi, I'm Omar! I’m a passionate Junior Data Analyst currently studying Artificial Intelligence at Benha National University. I specialize in extracting actionable insights using Excel, SQL, Python, and Power BI. I love solving problems with data, and I’m always exploring new tools and techniques to strengthen my analytical abilities.
 
 Through my academic work, freelance projects, and competitions like ICPC, I’ve developed strong skills in data wrangling, cleaning, and visualization. Whether it's building interactive dashboards or analyzing large datasets, I’m driven by curiosity and a goal to turn raw data into impactful decisions.
 
-My CV in [(https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq/view?usp=drivesdk)].
-
+My CV in [pdf](https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq/view?usp=drivesdk)
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
@@ -86,5 +85,5 @@ Specialization: AI & Data Analysis
 
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/omarramadan555)
+- LinkedIn:(https://www.linkedin.com/in/omarramadan555)
 - Email:omarramadan88888888g@gmail.com
