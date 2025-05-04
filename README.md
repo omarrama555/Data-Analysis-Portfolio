@@ -1,4 +1,4 @@
-Omar Ramadan - Data Analyst Portfolio
+## Omar Ramadan - Data Analyst Portfolio
 
 About
 
@@ -6,7 +6,7 @@ Hi, I'm Omar! I’m a passionate Junior Data Analyst currently studying Artifici
 
 Through my academic work, freelance projects, and competitions like ICPC, I’ve developed strong skills in data wrangling, cleaning, and visualization. Whether it's building interactive dashboards or analyzing large datasets, I’m driven by curiosity and a goal to turn raw data into impactful decisions.
 
-My CV in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf](https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq/view?usp=drivesdk)).
+My CV in [(https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq/view?usp=drivesdk)].
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -26,7 +26,8 @@ This is a repository to showcase skills, share projects and track my progress in
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-Adidas Sales Analysis Dashboard
+
+# Adidas Sales Analysis Dashboard
 
 Goal: To analyze Adidas sales data, providing insights into performance by region, product category, and time.
 
@@ -39,7 +40,7 @@ Technology: Power BI, Power Query, DAX.
 
 ---
 
-Sales Data Analysis
+# Sales Data Analysis
 
 Goal: To provide a summarized view of monthly sales performance and identify top-selling products.
 
@@ -52,7 +53,7 @@ Technology: Excel, Power BI.
 
 ---
 
-Customer Orders Dashboard
+# Customer Orders Dashboard
 
 Goal: To analyze customer ordering behavior and delivery performance.
 
@@ -72,11 +73,18 @@ Benha National University
 Specialization: AI & Data Analysis
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+
+- [SQL for Data Analysis - LinkedIn Learning](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+
+
+- [Power BI Fabric - Udemy](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
+
+  
+- [Data Analysis with Python](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c)
+
+
+
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/omarramadan555)
+- Email:omarramadan88888888g@gmail.com
