@@ -13,8 +13,8 @@ My CV in [pdf](https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]
-- [Portfolio Projects]
+- About
+- Portfolio Projects
   - Python  
   - SQL
   - Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
