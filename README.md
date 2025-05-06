@@ -6,7 +6,7 @@ Hi, I'm Omar! I’m a passionate Junior Data Analyst currently studying Artifici
 
 Through my academic work, freelance projects, and competitions like ICPC, I’ve developed strong skills in data wrangling, cleaning, and visualization. Whether it's building interactive dashboards or analyzing large datasets, I’m driven by curiosity and a goal to turn raw data into impactful decisions.
 
-My CV in [pdf](https://drive.google.com/file/d/1GeXE78WlBFeiSorPlHIzX1-aHC-8LIzq/view?usp=drivesdk)
+My CV in [pdf](https://drive.google.com/file/d/1JcrJ_eHOg7mIfhiD9M0FC9tCL96iRKZK/view?usp=drivesdk)
 
 
 
